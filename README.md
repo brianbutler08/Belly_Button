@@ -1,4 +1,4 @@
-# Belly Button 
+# Belly Button Bacteria Dashboard
 
 # Overview
 
@@ -17,4 +17,4 @@ The dashboard serves two primary audiences:
 
 The dashboard can be found here: https://brianbutler08.github.io/Belly_Button/
 
-!["web image"]()
+!["web image"](https://github.com/brianbutler08/Belly_Button/blob/main/website%20screen%20shot.png)
